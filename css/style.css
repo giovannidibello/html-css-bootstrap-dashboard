@@ -1,0 +1,14 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* regole navbar */
+
+.navbar-toggler {
+    border-color: #9a9c9e;
+}
+
+.navbar-toggler-icon {
+    background-color: #9a9c9e; 
+  }
