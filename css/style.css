@@ -1,3 +1,9 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+
+/* HEADER */
+
+.nav-item li:hover {
+    color: red;
+}
